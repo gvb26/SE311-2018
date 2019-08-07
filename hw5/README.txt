@@ -1,0 +1,4 @@
+Gaurang Bham
+HW 5
+
+There are several advantages to event coverage in this situation. Since the functional requirements are rather plain and simple, event coverage is only really necessary to get coverage across than pursuing a more verbose methodology for event interaction or length-n event sequence coverage. You save time at the cost of future bugs that good cost more later on in the product development lifecycle. This sort of coverage does not require you to stress test or even memory leaks when deleting elements. In minimal requirements such as this one is makes more sense because to reach full test coverage would take several more tests and a more verbose test suite.
